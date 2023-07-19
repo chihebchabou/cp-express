@@ -1,0 +1,24 @@
+html,
+body {
+  font-family: 'Poppins', sans-serif;
+  background: rgb(27, 27, 27);
+  color: aliceblue;
+}
+
+.main-title {
+  font-weight: 400;
+  font-size: 4rem;
+}
+
+.main-title span {
+  color: rgb(126, 253, 114);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: aliceblue;
+  padding: 0 1rem;
+}
+
+.lead {
+  font-weight: 400;
+}
